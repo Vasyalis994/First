@@ -5,8 +5,9 @@ A model that learns from 30 pictures of different types of animals (cats, dogs a
 
 ## Technologies
 - Python 3
-- Tensorflow
-
+- Tensorflow, Keras
+- os
+- Pillow
 
 ## Functions
 Determine which of the 3 animals is in the picture
